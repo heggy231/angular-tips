@@ -1,6 +1,6 @@
 # angular-tips
 ---
-angular-tips is a tip tracker app based on AngularJS--very useful for anyone who works at a restaurant or recieves tip income.
+angular-tips is a tip tracker app based on AngularJS-- handy for anyone who works at a restaurant or receives tip income.
 
 ## Based on
 ---
@@ -52,7 +52,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 ```
 
-4- Navigate to api/vi and create the file: config.php
+4- Navigate to API/vi and create the file: config.php
 
 5- In config.php add the following code:
 ```
