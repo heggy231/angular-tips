@@ -1,5 +1,6 @@
 # angular-tips
 ---
+![Demo](https://media.giphy.com/media/9PgpT2NKZOApkcOmfF/giphy.gif)
 angular-tips is a tip tracker app based on AngularJS--very useful for anyone who works at a restaurant or recieves tip income.
 
 ## Based on
